@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">CS441_Google_Calendar_API</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="YOUR_API_KEY">AIzaSyCeSSNVMezOGnyLiozawAfx6ap62txoey4</string>
-</resources>

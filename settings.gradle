@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='CS441_Google_Calendar_API'
