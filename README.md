@@ -6,6 +6,8 @@ Instead, I spent over a week toiling away trying to get connected to Google's AP
 Unfortunately, because of that this app has no functionality and on face value just looks like an empty app that allows you to switch between 3 screens.
 I did my best, Google won.
 
+The commits are some, but not all of the highlights of my war with Google
+
 ## Production Log:
 
 Dec 12, 2019: Final attempts at using Google's API on a google technology, no luck. Google beat me this time!!
